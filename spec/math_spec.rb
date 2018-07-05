@@ -1,4 +1,4 @@
-require 'spec_helper'
+lrequire 'spec_helper'
 
 describe "#addition" do 
   it "adds two numbers together" do
